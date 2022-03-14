@@ -1,4 +1,5 @@
 # special-funicular
+LOCAL
 H
 E
 L
