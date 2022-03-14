@@ -1,4 +1,5 @@
 # special-funicular
+REMOTE
 H
 E
 L
